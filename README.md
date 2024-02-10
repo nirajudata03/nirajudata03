@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Web Developing"
 - 🌱 I’m currently learning " HTML5, CSS, JavaScript".
 - 💞️ I’m looking to collaborate on 'GitHub' with You to crete a community.
-- 📫 How to reach me ... contact no : 9022116818, DM me social media - insta : niraj_udata_03.
+- 📫 How to reach me ... : **Contact No** : 9022116818, DM me social media **insta** : _niraj_udata_03_.
 - 😄 Pronouns: As your wish ...
 - ⚡ Fun fact: Don't be Smart...!
 
