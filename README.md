@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @nirajudata03
-- 👀 I’m interested in "Web Developing"
-- 🌱 I’m currently learning " HTML5, CSS, JavaScript".
-- 💞️ I’m looking to collaborate on 'GitHub' with You to crete a community.
-- 📫 How to reach me ... : **Contact No** : 9022116818, DM me social media **insta** : _niraj_udata_03_.
-- 😄 Pronouns: As your wish ...
-- ⚡ Fun fact: Don't be Smart...!
+- “If we want users to like our software, we should design it to behave like a likeable person.”
 
 <!---
 nirajudata03/nirajudata03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
